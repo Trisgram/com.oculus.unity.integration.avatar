@@ -3,7 +3,7 @@
 	"displayName": "Oculus Integration Avatar",
 	"description": "Unofficial Oculus Unity-Integration Avatar as a package for Unity.",
 	"keywords": [],
-	"version": "20.0.0",
+	"version": "20.0.1",
 	"unity": "2021.2",
 	"license": "Oculus SDK License",
 	"author": "Facebook Technologies, LLC",
