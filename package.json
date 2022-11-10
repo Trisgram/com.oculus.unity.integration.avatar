@@ -3,16 +3,16 @@
 	"displayName": "Oculus Integration Avatar",
 	"description": "Unofficial Oculus Unity-Integration Avatar as a package for Unity.",
 	"keywords": [],
-	"version": "20.0.1",
+	"version": "20.0.2",
 	"unity": "2021.2",
 	"license": "Oculus SDK License",
 	"author": "Facebook Technologies, LLC",
 	"dependencies": {
 		"com.unity.xr.oculus": "1.11.2",
 		"com.oculus.unity.integration.spatializer": "32.0.0",
-		"com.oculus.unity.integration.platform": "32.0.0",
-		"com.oculus.unity.integration.vr": "31.2.0",
-		"com.oculus.unity.integration.lip-sync": "20.0.0"
+		"com.oculus.unity.integration.platform": "33.0.0",
+		"com.oculus.unity.integration.vr": "33.0.0",
+		"com.oculus.unity.integration.lip-sync": "29.0.0"
 	},
 	"type": "sdk"
 }
